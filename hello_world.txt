@@ -1,2 +1,3 @@
 This is my first text file in my first GitHub repo!
 This second line is just me testing how to change the commit message editor.
+This third line is me re-testing how to change the Git commit message editor.
